@@ -68,7 +68,7 @@ try{
     console.error('Error in Adding new job',err);
     toast.error('Job Was Not Added')
   }
-console.log(newJob);
+
 }
 </script>
 <template>
