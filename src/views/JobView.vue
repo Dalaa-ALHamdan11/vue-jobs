@@ -119,16 +119,16 @@ const deleteJob = async () => {
   <div class="container m-auto py-10 px-6">
     <div class="grid grid-cols-1 md:grid-cols-70/30 w-full gap-6 animate-pulse">
 
-      <!-- 🟢 MAIN -->
+      
       <main>
-        <!-- card 1 -->
+      
         <div class="bg-white p-6 rounded-lg shadow-md">
           <div class="h-4 bg-gray-300 w-1/4 mb-4 rounded"></div>
           <div class="h-8 bg-gray-300 w-2/3 mb-4 rounded"></div>
           <div class="h-4 bg-gray-300 w-1/3 rounded"></div>
         </div>
 
-        <!-- card 2 -->
+    
         <div class="bg-white p-6 rounded-lg shadow-md mt-6">
           <div class="h-5 bg-gray-300 w-1/3 mb-6 rounded"></div>
 
@@ -141,9 +141,9 @@ const deleteJob = async () => {
         </div>
       </main>
 
-      <!-- 🟡 SIDEBAR -->
+      
       <aside>
-        <!-- company -->
+        
         <div class="bg-white p-6 rounded-lg shadow-md">
           <div class="h-6 bg-gray-300 w-1/2 mb-6 rounded"></div>
 
@@ -158,7 +158,7 @@ const deleteJob = async () => {
           <div class="h-4 bg-gray-300 w-1/2 rounded"></div>
         </div>
 
-        <!-- manage -->
+        
         <div class="bg-white p-6 rounded-lg shadow-md mt-6">
           <div class="h-6 bg-gray-300 w-1/2 mb-6 rounded"></div>
 
